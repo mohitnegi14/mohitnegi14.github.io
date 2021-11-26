@@ -11,8 +11,8 @@ classes: wide
 
 <li>
   <a href="https://whatever.com">
-    <svg class="svg-inline--fa fa-w-14 fa-fw" aria-hidden="true" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+    <svg class="svg-inline--fa fa-w-14 fa-fw" aria-hidden="true" role="img" xmlns="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_India.svg" viewBox="0 0 448 512">
       ... <!-- svg paths and stuff -->
-    </svg> Whatever
+    </svg> India
   </a>
 </li>
