@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" #, "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Mohit Negi"
   avatar           : "/assets/images/mohit.jpg"
-  bio              : "MSc Economics Student at Università Bocconi, Milan"
+  bio              : "I am an MSc Economics Student at Bocconi University, Milan. My research interests include Social Networks Analysis, Political Economics, and Political Methodology."
   location         : "Milan, Italy"
   email            :
   links:
@@ -114,12 +114,12 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:mohitnegi1442000@gmail.com"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/mohitnegi14"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/mohit-j-negi/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mohitnegi14"
 
 # Site Footer
 footer:
