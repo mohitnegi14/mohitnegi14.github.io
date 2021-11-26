@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Mohit Negi"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/mohit.jpg"
   bio              : "MSc Economic & Social Sciences"
   location         : "Milan, Italy"
   email            :
