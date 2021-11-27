@@ -10,6 +10,5 @@ classes: wide
 2. [Insights in International Relations - A Data Analysis Term Project using R](https://drive.google.com/file/d/1osMFPT2HjX8n6MsF8TzFy-gMt-Rw7hgc/view?usp=sharing) (with Ferran Vega)
 
 <div id="footer">
-    <p><center>2013 - Index</center>
-    <img style="text-align:right" src="\assets\images\indiaicon.ico"  height="25" width="25"></p>
+    <p><img style="float:right" src="\assets\images\indiaicon.ico"  height="25" width="25"></p>
 </div>
