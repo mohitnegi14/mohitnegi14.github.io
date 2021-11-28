@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Mohit Negi"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Mohit"\"Negi"
+name                     : "Mohit Negi"
 description              : "This is my Professional Website. You can find my works, interests and contact details here."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -102,7 +102,7 @@ analytics:
 
 # Site Author
 author:
-  name : "Mohit"\"Negi"
+  name             : "Mohit" | "Negi"
   avatar           : "/assets/images/mohit.jpg"
   bio              : "I am an MSc Economics student at Bocconi University, Milan. My research interests include Social Networks Analysis, Political Economics, and Political Methodology."
   location         : "Milan, Italy"
