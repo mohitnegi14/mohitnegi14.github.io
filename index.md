@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 classes: wide
 ---
-<img style="float: right;" src="\assets\images\bannerforsite.pdf">
+<img style="float: right;" src="\assets\images\ban.jpg">
 # WRITINGS
 
 1. [Averaging over Varieties of Variance: Evidence from Survey Experiments on Immigration](https://drive.google.com/file/d/1ksG_6ejy7LjOlMFRd52ItMhr3ReUbcdo/view?usp=sharing) (with Emma Pendl-Robinson and Marco Scipioni) [Replication Materials](https://doi.org/10.7910/DVN/M9XJRE)
