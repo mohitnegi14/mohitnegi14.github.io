@@ -2,6 +2,8 @@
 main:
   - title: "Blog"
     url: https://economists1.github.io/blog1/
+  - title: "HistoryAtlas"
+    url: https://mohit-negi.shinyapps.io/HistoryAtlas/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
