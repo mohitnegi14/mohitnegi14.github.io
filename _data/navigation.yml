@@ -1,16 +1,4 @@
 # main links
 main:
-  - title: "Blog"
-    url: https://economists1.github.io/blog1/
   - title: "HistoryAtlas"
     url: https://mohit-negi.shinyapps.io/HistoryAtlas/
-  # - title: "Quick-Start Guide"
-  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
