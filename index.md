@@ -5,6 +5,7 @@ classes: wide
 ---
 <img style="float: right;" src="\assets\images\vittala.png">
 
+
 I am currently working as a Pre-doctoral Research Associate for Erin M. Kelley, Assistant Professor of Economics at the University of Chicago's Harris School of Public Policy. I'm interested in the fields of environmental and development economics with a special interest in studying policy interventions for climate resilience in developing countries. I graduated from my MSc in Economic and Social Sciences from Bocconi University in April 2024 with a thesis focusing on the causal effects of air pollution on infant mortality in India.
 
 ## WRITINGS
