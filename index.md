@@ -11,6 +11,4 @@ Hello and welcome to my official website! I am currently working as a Pre-doctor
 
 ## WRITINGS
 1. Pollution from Crop Burning and its Impact on Infant Mortality in India ( *draft soon* )
-2. [Averaging over Varieties of Variance: Evidence from Survey Experiments on Immigration](https://drive.google.com/file/d/1ksG_6ejy7LjOlMFRd52ItMhr3ReUbcdo/view?usp=sharing) ( *with Emma Pendl-Robinson and Marco Scipioni* ) [Replication Materials](https://doi.org/10.7910/DVN/M9XJRE)
-
 
