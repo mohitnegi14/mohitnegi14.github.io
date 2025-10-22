@@ -7,12 +7,8 @@ search: false
 
 $link-color: #00B8EA;
 
-.icon {
-  background: "\assets\images\Flag_of_India.svg";
-  height: 8px;
-  width: 8px;
-  display: block;
-  /* Other styles here */
+html {
+  font-size: 12px; /* Default is usually 16px, so this reduces overall size */
 }
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
