@@ -33,23 +33,23 @@ $global-font-family: $sans-serif !default;
 $header-font-family: $sans-serif !default;
 $caption-font-family: $serif !default;
 
-/* type scale */
-$type-size-1: 2.441em !default; // ~39.056px
-$type-size-2: 1.953em !default; // ~31.248px
-$type-size-3: 1.563em !default; // ~25.008px
-$type-size-4: 1.25em !default; // ~20px
-$type-size-5: 1em !default; // ~16px
-$type-size-6: 0.75em !default; // ~12px
-$type-size-7: 0.6875em !default; // ~11px
-$type-size-8: 0.625em !default; // ~10px
+/* type scale (30% smaller) */
+$type-size-1: 1.709em !default; // ~27.34px
+$type-size-2: 1.367em !default; // ~21.87px
+$type-size-3: 1.094em !default; // ~17.51px
+$type-size-4: 0.875em !default; // ~14px
+$type-size-5: 0.7em !default;   // ~11.2px
+$type-size-6: 0.525em !default; // ~8.4px
+$type-size-7: 0.481em !default; // ~7.7px
+$type-size-8: 0.438em !default; // ~7px
 
-/* headline scale */
-$h-size-1: 1.563em !default; // ~25.008px
-$h-size-2: 1.25em !default; // ~20px
-$h-size-3: 1.125em !default; // ~18px
-$h-size-4: 1.0625em !default; // ~17px
-$h-size-5: 1.03125em !default; // ~16.5px
-$h-size-6: 1em !default; // ~16px
+/* headline scale (30% smaller) */
+$h-size-1: 1.094em !default;    // ~17.51px
+$h-size-2: 0.875em !default;    // ~14px
+$h-size-3: 0.788em !default;    // ~12.6px
+$h-size-4: 0.744em !default;    // ~11.9px
+$h-size-5: 0.722em !default;    // ~11.55px
+$h-size-6: 0.7em !default;      // ~11.2px
 
 /*
    Colors
