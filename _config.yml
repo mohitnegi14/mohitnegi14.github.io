@@ -210,13 +210,6 @@ whitelist:
   - jekyll-feed
   - jekyll-include-cache
 
-minimal_mistakes_skin: default
-sass:
-  style: compressed
-
-include:
-  - assets/css
-  
 # Archives
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
