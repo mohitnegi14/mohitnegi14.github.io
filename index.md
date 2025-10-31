@@ -7,7 +7,7 @@ I am a Pre-doctoral Researcher for Erin M. Kelley and Gregory Lane, Assistant Pr
 
 I'm interested in the fields of environmental and development economics with a special interest in studying policy interventions for climate resilience in developing countries. 
 
-I graduated from my MSc in Economic and Social Sciences from Bocconi University in April 2024 with a thesis focusing on the causal effects of air pollution on infant mortality in India.
+I graduated with an MSc in Economic and Social Sciences (MSc-ESS) from Bocconi University in April 2024.
 
 ## Works In Progress
 1. Pollution from Crop Burning and its Impact on Infant Mortality in India ( *draft soon* )
