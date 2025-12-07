@@ -13,7 +13,3 @@ I graduated with an MSc in Economic and Social Sciences (MSc-ESS) from Bocconi U
 1. [Pollution from Crop Burning and its Impact on Infant Mortality in India](https://drive.google.com/file/d/1VDSM7wA-WyZ3nh_9MruElAWwqcbJM2zi/view?usp=sharing), *MSc Thesis*
 2. [Market Unraveling and Quality Control in Agriculture](https://static1.squarespace.com/static/5b1c4743266c07336b65a08c/t/68cc6306c0b8eb63210c974b/1758225158736/Groundnut+%282%29.pdf), *with Manzoor Dar, Kyle Emerick, Davis Gimode, Erin Kelley, and Gregory Lane* - **PAP accepted via pre-results review at the JDE.**
 3. [Job Seekers’ Beliefs and Labor Market Demand](https://afosterri.org/jdepreresults/wp-content/uploads/2025/08/kelley-kuloszewski-lane-moroz-negi-vezza-job-seeker-beliefs-labo-6ac5ad0b9c2f9fe2a3a9353849322136.pdf), *with Erin Kelley, Zachary Kuloszewski, Gregory Lane, Harry Moroz, and Evelyn Vezza* - **PAP accepted via pre-results review at the JDE.**
-
-## Other Writings
-1. [Employment Stress and Mental Health: The Role of Institutional Trust in a Pandemic](https://drive.google.com/file/d/1ApsY1dSnuG2CMCYGC87OKjqqhP5jmiTF/view?usp=drive_link), *with Akash Jain and Anna Saraiva*
-
