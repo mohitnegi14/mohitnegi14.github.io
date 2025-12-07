@@ -113,17 +113,11 @@ author:
   links:
     - label: "CV"
       icon: "fas fa-fw fa-file"
-      url: "https://drive.google.com/file/d/1IcvV0WdtzYbHpUqnGt0QbJnfyRY6e8Dx/view?usp=sharing"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/mohit-j-negi/"
+      url: "https://drive.google.com/file/d/15qzSSKmIHohmTnAPVryUA8GbSQWMaDMX/view?usp=sharing"
 
 # Site Footer
 footer:
   links:
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/mohit-j-negi/"
 
 # Reading Files
 include:
